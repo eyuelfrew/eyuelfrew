@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eyuel Frew
-- 👀 I’m interested in buidling web application 
+- 👀 I’m interested in building web application 
 - 🌱 I’m currently learning basics of software(web app) development using MERN thec stack 
 - 💞️ I’m looking to collaborate on different project willingly 
 - 📫 How to reach me ... eyuelfrew430@gmail 
