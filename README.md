@@ -33,8 +33,8 @@ I'm a passionate Full Stack Software Developer based in Addis Ababa, Ethiopia. I
 
 ## 📫 Get in Touch
 
-- [LinkedIn](#) <!-- Replace with your LinkedIn URL -->
-- [Email](#) <!-- Replace with your email address -->
+- https://www.linkedin.com/in/eyuel-frew-46575732b/(#) <!-- Replace with your LinkedIn URL -->
+- [eyuelfrew430@gmail.com](#) <!-- Replace with your email address -->
 - [Portfolio/Website](#) <!-- Replace with your website/portfolio URL -->
 
 ---
