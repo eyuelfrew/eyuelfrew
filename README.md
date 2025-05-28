@@ -1,6 +1,6 @@
 # Full Stack Software Developer
 
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm Eyuel Frew!
 
 I'm a passionate Full Stack Software Developer based in Addis Ababa, Ethiopia. I specialize in building scalable, high-performance applications across desktop, mobile, and web platforms.
 
