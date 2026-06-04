@@ -75,18 +75,7 @@ $ cat about_me.json
 
 </div>
 
----
 
-## `// featured_projects`
-
-| # | Project | Stack | Description |
-|---|---------|-------|-------------|
-| 01 | **Custom CRM / Call Center** | React · Node.js · PostgreSQL · FreeSWITCH | Full PBX management with real-time agent dashboard, queue & IVR systems |
-| 02 | **FreePBX Reverse Engineering** | PJSIP · SIP · PHP · MySQL | Reverse-engineered FreePBX: trunks, extensions, IVR, queues, announcements |
-| 03 | **Cross-Platform Mobile Apps** | Flutter · Dart | End-to-end apps for iOS, Android, and desktop from a single codebase |
-| 04 | **Cloud-Native Microservices** | Docker · Kubernetes · Go | Containerized services with full CI/CD pipeline orchestration |
-
----
 
 ## `// what_i_build`
 
@@ -94,21 +83,12 @@ $ cat about_me.json
 📱 Mobile & Desktop  →  Flutter apps that run everywhere
 🌐 Web Applications  →  React & Angular frontends that scale
 🔧 Backend Systems   →  Node.js / Go / Python APIs that perform
-☎️  PBX & Telephony  →  FreeSWITCH call centers from scratch
+☎️  PBX & Telephony  →  FreeSWITCH + Asterisk call centers from scratch
 🚀 DevOps Pipelines  →  Docker + K8s for smooth deployments
 🦀 Systems Code      →  Rust for when performance is everything
 ```
 
----
 
-## `// currently_building`
-
-> 🔨 **FreeSWITCH Call Center CRM** — A full-stack CRM system for call centers
-> featuring PJSIP trunk management, live agent dashboards, IVR trees,
-> queue management, call recording, and real-time WebSocket events.
-> Stack: **React + Node.js + PostgreSQL + FreeSWITCH ESL**
-
----
 
 <div align="center">
 
