@@ -31,7 +31,6 @@ $ cat about_me.json
   "location":   "Addis Ababa, Ethiopia 🇪🇹",
   "status":     "🟢 Available for opportunities",
   "superpower": "Building scalable systems across every platform",
-  "currently":  "FreeSWITCH-powered Call Center CRM (React + Node.js + PostgreSQL)",
   "motto":      "Ship it. Scale it. Repeat."
 }
 ```
