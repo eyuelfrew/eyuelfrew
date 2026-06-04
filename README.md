@@ -1,48 +1,128 @@
-# Full Stack Software Developer
+<div align="center">
 
-## 👋 Hi, I'm Eyuel Frew!
+```
+███████╗██╗   ██╗███████╗██╗   ██╗███████╗██╗
+██╔════╝╚██╗ ██╔╝██╔════╝██║   ██║██╔════╝██║
+█████╗   ╚████╔╝ █████╗  ██║   ██║█████╗  ██║
+██╔══╝    ╚██╔╝  ██╔══╝  ██║   ██║██╔══╝  ██║
+███████╗   ██║   ███████╗╚██████╔╝███████╗███████╗
+╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ ╚══════╝╚══════╝
+```
 
-I'm a passionate Full Stack Software Developer based in Addis Ababa, Ethiopia. I specialize in building scalable, high-performance applications across desktop, mobile, and web platforms.
+### `> building_the_future_from_addis_ababa_🇪🇹`
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Mobile+%7C+Web+%7C+Desktop+%7C+PBX+Systems;Flutter+%2B+React+%2B+Node.js+%2B+Go+%2B+Rust;Building+real+solutions+from+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9)
 
-## 🚀 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyuel-frew-46575732b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyuelfrew430@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=eyuelfrew&style=for-the-badge&color=1D9E75)](https://github.com/eyuelfrew)
 
-- **Frontend:** Flutter, React, Angular
-- **Backend:** Node.js, Laravel, Go, Python, Rust
-- **DevOps:** Docker, Kubernetes
-
----
-
-## 🌐 About Me
-
-- 💻 I love building software that solves real-world problems.
-- 📱 Experienced in cross-platform mobile and desktop development.
-- 🌍 Based in Addis Ababa, Ethiopia.
-
----
-
-## 📈 What I Can Do
-
-- End-to-end application development (mobile, web, desktop)
-- RESTful APIs and backend systems
-- DevOps with Docker & Kubernetes
-- Cloud-native solutions
+</div>
 
 ---
 
-## 📫 Get in Touch
+## `// whoami`
 
-- https://www.linkedin.com/in/eyuel-frew-46575732b/(#) <!-- Replace with your LinkedIn URL -->
-- [eyuelfrew430@gmail.com](#) <!-- Replace with your email address -->
-- [Portfolio/Website](#) <!-- Replace with your website/portfolio URL -->
+```bash
+$ cat about_me.json
+{
+  "name":       "Eyuel Frew",
+  "role":       "Full Stack Software Developer",
+  "location":   "Addis Ababa, Ethiopia 🇪🇹",
+  "status":     "🟢 Available for opportunities",
+  "superpower": "Building scalable systems across every platform",
+  "currently":  "FreeSWITCH-powered Call Center CRM (React + Node.js + PostgreSQL)",
+  "motto":      "Ship it. Scale it. Repeat."
+}
+```
 
 ---
 
-## 🛠️ Featured Projects
+## `// tech_stack`
 
-<!-- List or link to some of your top projects here, or leave this section out if not needed. -->
+### 🖥️ Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### 🗄️ Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 📞 Telephony / PBX
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-1D9E75?style=flat-square&logoColor=white)
+![FreePBX](https://img.shields.io/badge/FreePBX-FF6600?style=flat-square&logoColor=white)
+![SIP/PJSIP](https://img.shields.io/badge/SIP%2FPJSIP-333333?style=flat-square&logoColor=white)
 
 ---
 
-Thanks for visiting my profile!
+## `// github_stats`
+
+<div align="center">
+
+![Eyuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuelfrew&show_icons=true&theme=dark&title_color=1D9E75&icon_color=1D9E75&border_color=333333&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuelfrew&layout=compact&theme=dark&title_color=1D9E75&border_color=333333&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eyuelfrew&theme=dark&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&border=333333&background=0d1117)
+
+</div>
+
+---
+
+## `// featured_projects`
+
+| # | Project | Stack | Description |
+|---|---------|-------|-------------|
+| 01 | **Custom CRM / Call Center** | React · Node.js · PostgreSQL · FreeSWITCH | Full PBX management with real-time agent dashboard, queue & IVR systems |
+| 02 | **FreePBX Reverse Engineering** | PJSIP · SIP · PHP · MySQL | Reverse-engineered FreePBX: trunks, extensions, IVR, queues, announcements |
+| 03 | **Cross-Platform Mobile Apps** | Flutter · Dart | End-to-end apps for iOS, Android, and desktop from a single codebase |
+| 04 | **Cloud-Native Microservices** | Docker · Kubernetes · Go | Containerized services with full CI/CD pipeline orchestration |
+
+---
+
+## `// what_i_build`
+
+```
+📱 Mobile & Desktop  →  Flutter apps that run everywhere
+🌐 Web Applications  →  React & Angular frontends that scale
+🔧 Backend Systems   →  Node.js / Go / Python APIs that perform
+☎️  PBX & Telephony  →  FreeSWITCH call centers from scratch
+🚀 DevOps Pipelines  →  Docker + K8s for smooth deployments
+🦀 Systems Code      →  Rust for when performance is everything
+```
+
+---
+
+## `// currently_building`
+
+> 🔨 **FreeSWITCH Call Center CRM** — A full-stack CRM system for call centers
+> featuring PJSIP trunk management, live agent dashboards, IVR trees,
+> queue management, call recording, and real-time WebSocket events.
+> Stack: **React + Node.js + PostgreSQL + FreeSWITCH ESL**
+
+---
+
+<div align="center">
+
+### `> let's_build_something_great_together()`
+
+[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyuel-frew-46575732b/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyuelfrew430@gmail.com)
+
+```
+  Made with ❤️  from Addis Ababa, Ethiopia 🇪🇹
+  "Code is poetry. Ship it."
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=100&section=footer)
+
+</div>
